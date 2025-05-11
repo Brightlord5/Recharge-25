@@ -76,7 +76,7 @@ const Registration = () => {
         {/* Rulebook Button */}
         <div className="mb-16 flex justify-center">
           <a 
-            href="https://shorturl.at/7CflN" 
+            href="https://drive.google.com/file/d/1K2oLKXarYlScZCMkAvbvLIqmUB0Mdnb1/view?usp=drive_link" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="group relative overflow-hidden bg-gradient-to-r from-secondary-dark to-secondary text-text-primary font-bold py-4 px-8 rounded-full shadow-lg transform transition-all duration-300 hover:scale-110 hover:rotate-1 hover:shadow-neon flex items-center"
@@ -177,9 +177,6 @@ const Registration = () => {
         {/* Developer Credit */}
         <div className="text-center mt-16 pt-4 border-t border-surface-light">
           <p className="text-sm font-medium text-text-secondary mb-2">Hosted by Hostel Representatives, Student Council BPDC</p>
-          <p className="text-sm text-secondary/80">
-            Developed by <a href="https://www.linkedin.com/in/anas-shaik/" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors duration-300">Shaik Anas</a>
-          </p>
         </div>
       </div>
     </div>
