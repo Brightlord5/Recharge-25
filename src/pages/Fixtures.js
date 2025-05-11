@@ -17,7 +17,7 @@ const Fixtures = () => {
       {/* Main content */}
       <div className="relative z-10 max-w-6xl mx-auto pt-28 pb-24 px-4 sm:px-8">
         <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight mb-16 text-center">
-          <span className="bg-clip-text text-transparent bg-text-gradient animate-pulse-slow font-fun">FIXTURES</span>
+          <span className="bg-clip-text text-transparent bg-text-gradient animate-pulse-slow">FIXTURES</span>
           <span className="ml-3 inline-block animate-bounce-slow">🏆</span>
         </h1>
         

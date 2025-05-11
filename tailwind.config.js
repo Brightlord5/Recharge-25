@@ -43,7 +43,7 @@ module.exports = {
         'neon': '0 0 5px #fff, 0 0 10px #fff, 0 0 15px #ff0000, 0 0 20px #ff0000',
       },
       fontFamily: {
-        'fun': ['Bangers', 'Comic Sans MS', 'cursive'],
+        'fun': ['Arial', 'Helvetica', 'sans-serif'],
       }
     },
   },

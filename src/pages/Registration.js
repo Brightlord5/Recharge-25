@@ -69,7 +69,7 @@ const Registration = () => {
       {/* Main content */}
       <div className="relative z-10 max-w-6xl mx-auto pt-28 pb-24 px-4 sm:px-8">
         <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight mb-12 text-center">
-          <span className="bg-clip-text text-transparent bg-text-gradient animate-pulse-slow font-fun">REGISTRATION</span>
+          <span className="bg-clip-text text-transparent bg-text-gradient animate-pulse-slow">REGISTRATION</span>
           <span className="ml-2 inline-block animate-wiggle">🎮</span>
         </h1>
         
@@ -92,7 +92,7 @@ const Registration = () => {
         <div className="relative overflow-hidden rounded-xl bg-gradient-to-r from-background to-surface p-0.5 mb-16 transform hover:scale-105 transition-transform duration-500">
           <div className="relative bg-surface/50 backdrop-blur-sm rounded-[10px] p-8 md:p-12">
             <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 relative">
-              <span className="bg-clip-text text-transparent bg-hero-gradient font-fun">Sports Event Registration</span>
+              <span className="bg-clip-text text-transparent bg-hero-gradient">Sports Event Registration</span>
               {/* Decorative elements */}
               <span className="absolute -top-6 -left-2 text-2xl animate-bounce-slow hidden md:inline-block">🏀</span>
               <span className="absolute -top-4 -right-2 text-2xl animate-float hidden md:inline-block">⚽</span>
