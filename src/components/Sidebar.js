@@ -123,13 +123,6 @@ const Sidebar = () => {
             </li>
           </ul>
         </nav>
-        
-        <div className="absolute bottom-8 inset-x-0 px-6">
-          <div className="p-4 rounded-lg bg-surface-light bg-opacity-50 text-center">
-            <div className="text-xs text-text-secondary mb-2">Hosted by</div>
-            <div className="text-sm font-medium">Hostel Representatives, Student Council BPDC</div>
-          </div>
-        </div>
       </div>
       
       {/* Overlay when sidebar is open on mobile */}
