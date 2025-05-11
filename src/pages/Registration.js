@@ -177,7 +177,9 @@ const Registration = () => {
         {/* Developer Credit */}
         <div className="text-center mt-16 pt-4 border-t border-surface-light">
           <p className="text-sm font-medium text-text-secondary mb-2">Hosted by Hostel Representatives, Student Council BPDC</p>
-          <p className="text-sm text-secondary/80 hover:text-secondary transition-colors duration-300">Developed by Shaik Anas</p>
+          <p className="text-sm text-secondary/80">
+            Developed by <a href="https://www.linkedin.com/in/anas-shaik/" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors duration-300">Shaik Anas</a>
+          </p>
         </div>
       </div>
     </div>
